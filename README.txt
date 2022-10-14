@@ -4,3 +4,5 @@
 商用利用 だめ
 
 create : akikawa_9616(@akikawa_9616)
+
+(c) 2022 akikawa9616
